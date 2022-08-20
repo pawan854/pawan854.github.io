@@ -1,0 +1,29 @@
+.stopwatch {
+   background-color: teal;
+   height: 200px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 195px;
+   user-select: none;
+}
+
+form {
+   margin: 50px;
+   display: flex;
+   justify-content: space-around;
+}
+button {
+   width: 200px;
+   margin: 10px;
+   height: 50px;
+}
+
+.li {
+   font-size: 40px;
+   user-select: none;
+}
+
+.clr {
+   margin-top: 50px;
+}
